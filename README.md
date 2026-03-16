@@ -7,7 +7,7 @@ A Chrome extension that adds a right-click context menu option to save any image
 - Right-click any image to download it as `.webp`
 - On Google Images, uses the search query as the filename
 - Quality set to 75% for a good size/quality balance
-- Tiny — less than 100 lines of code
+- Tiny — less than 50 lines of code
 
 ## Installation
 

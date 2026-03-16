@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Save as WebP",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Right-click any image to save it as WebP",
   "permissions": ["contextMenus", "downloads"],
   "host_permissions": ["<all_urls>"],
