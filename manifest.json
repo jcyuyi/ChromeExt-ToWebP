@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Save as WebP",
+  "version": "1.0",
+  "description": "Right-click any image to save it as WebP",
+  "permissions": ["contextMenus", "downloads"],
+  "host_permissions": ["<all_urls>"],
+  "icons": { "16": "icon16.png", "48": "icon48.png" },
+  "action": { "default_icon": { "16": "icon16.png", "48": "icon48.png" } },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
